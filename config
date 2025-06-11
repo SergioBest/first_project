@@ -5,6 +5,5 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
-	editor = nano
 [user]
 	name = cru
